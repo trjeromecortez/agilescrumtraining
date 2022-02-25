@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agilescrumtraining/static/css/main.83b5dced.chunk.css",
+    "main.js": "/agilescrumtraining/static/js/main.b844accd.chunk.js",
+    "main.js.map": "/agilescrumtraining/static/js/main.b844accd.chunk.js.map",
+    "runtime-main.js": "/agilescrumtraining/static/js/runtime-main.1e94dff3.js",
+    "runtime-main.js.map": "/agilescrumtraining/static/js/runtime-main.1e94dff3.js.map",
+    "static/css/2.a4070788.chunk.css": "/agilescrumtraining/static/css/2.a4070788.chunk.css",
+    "static/js/2.76c09545.chunk.js": "/agilescrumtraining/static/js/2.76c09545.chunk.js",
+    "static/js/2.76c09545.chunk.js.map": "/agilescrumtraining/static/js/2.76c09545.chunk.js.map",
+    "index.html": "/agilescrumtraining/index.html",
+    "static/css/2.a4070788.chunk.css.map": "/agilescrumtraining/static/css/2.a4070788.chunk.css.map",
+    "static/css/main.83b5dced.chunk.css.map": "/agilescrumtraining/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.76c09545.chunk.js.LICENSE.txt": "/agilescrumtraining/static/js/2.76c09545.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e94dff3.js",
+    "static/css/2.a4070788.chunk.css",
+    "static/js/2.76c09545.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.b844accd.chunk.js"
+  ]
+}
