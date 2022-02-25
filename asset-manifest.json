@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/agilescrumtraining/static/css/main.83b5dced.chunk.css",
-    "main.js": "/agilescrumtraining/static/js/main.1dcfe305.chunk.js",
-    "main.js.map": "/agilescrumtraining/static/js/main.1dcfe305.chunk.js.map",
+    "main.js": "/agilescrumtraining/static/js/main.7836c711.chunk.js",
+    "main.js.map": "/agilescrumtraining/static/js/main.7836c711.chunk.js.map",
     "runtime-main.js": "/agilescrumtraining/static/js/runtime-main.1e94dff3.js",
     "runtime-main.js.map": "/agilescrumtraining/static/js/runtime-main.1e94dff3.js.map",
     "static/css/2.a4070788.chunk.css": "/agilescrumtraining/static/css/2.a4070788.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.a4070788.chunk.css",
     "static/js/2.76c09545.chunk.js",
     "static/css/main.83b5dced.chunk.css",
-    "static/js/main.1dcfe305.chunk.js"
+    "static/js/main.7836c711.chunk.js"
   ]
 }
